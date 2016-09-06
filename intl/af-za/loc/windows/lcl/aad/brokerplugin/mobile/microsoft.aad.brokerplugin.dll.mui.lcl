@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LCX SchemaVersion="6.0" Name="microsoft.aad.brokerplugin.dll.mui" PsrId="3" FileType="4" SrcCul="en-US" TgtCul="af-ZA" Desc="Commenting file created by LCXAdmin. For more information, please visit http://localizability/longhorn/LcxAdmin.asp" xmlns="http://schemas.microsoft.com/locstudio/2006/6/lcx">
+  <Props>
+    <Str Name="CustomName1" Val="Custom 1" />
+    <Str Name="CustomName2" Val="Custom 2" />
+    <Str Name="CustomName3" Val="Custom 3" />
+    <Str Name="CustomName4" Val="Custom 4" />
+    <Str Name="CustomName5" Val="Custom 5" />
+    <Str Name="CustomName6" Val="IQA" />
+    <Str Name="LCGSettingsName" Val="@ParserSettingsPath@\NTDEV_LSSettings.lsconfig" />
+    <Str Name="LocStudio.HashIdSalt" Val="onecoreuap\loc\src\multi\aad\brokerplugin\mobile" />
+  </Props>
+  <OwnedComments>
+    <Cmt Name="Dev" />
+    <Cmt Name="DUIData" />
+    <Cmt Name="GoldMine" />
+    <Cmt Name="Goldmine8" />
+    <Cmt Name="LcxAdmin" />
+    <Cmt Name="Loc" />
+    <Cmt Name="ManifestData" />
+    <Cmt Name="Mnemonic" />
+    <Cmt Name="RCCX" />
+    <Cmt Name="UIType" />
+    <Cmt Name="UTSData" />
+    <Cmt Name="UTSUI" />
+    <Cmt Name="zLocLevel" />
+  </OwnedComments>
+  <Settings Name="@ParserSettingsPath@\NTDEV_LSSettings.lsconfig" Type="Config" />
+  <Item ItemId=";Version" ItemType=";Dummy" PsrId="3" Leaf="false">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+    <Modified By="epriss" DateTime="2015-05-04T22:20:58Z" />
+    <Props>
+      <Str Name="Custom3" Val="10114.0.x86fre.winmain.150501-2156new" />
+    </Props>
+    <Item ItemId="1" ItemType="16" PsrId="3" Leaf="false">
+      <Disp Icon="Ver" Disp="true" LocTbl="false" />
+      <Modified By="epriss" DateTime="2015-05-04T22:20:58Z" />
+      <Cmts>
+        <Cmt Name="Mnemonic"><![CDATA[VS_VERSION_INFO]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="Custom3" Val="10114.0.x86fre.winmain.150501-2156new" />
+      </Props>
+      <Item ItemId=";LT__LANG" ItemType=";VSTAMP" PsrId="3" Leaf="false">
+        <Bin BinId="5">
+          <Val><![CDATA[AAAAAA==]]></Val>
+          <Tgt BinId="5" Stat="N/A" Orig="New">
+            <Val><![CDATA[AAAAAA==]]></Val>
+          </Tgt>
+        </Bin>
+        <Disp LocTbl="false" />
+        <Modified By="epriss" DateTime="2015-05-04T22:20:58Z" />
+        <Props>
+          <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+          <Str Name="Custom3" Val="10114.0.x86fre.winmain.150501-2156new" />
+          <Str Name="Custom5" Val="Must-Have" />
+        </Props>
+        <Item ItemId=";CompanyName" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version" UsrLk="true">
+            <Val><![CDATA[Microsoft Corporation]]></Val>
+          </Str>
+          <Disp Icon="Ver" />
+          <Modified By="pieterwi" DateTime="2015-05-04T22:25:28Z" />
+          <Cmts>
+            <Cmt Name="LcxAdmin"><![CDATA[{Locked}]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+            <Str Name="Custom3" Val="Win10_TH1" />
+            <Str Name="Custom5" Val="Must-Have" />
+          </Props>
+        </Item>
+        <Item ItemId=";FileDescription" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version" UsrLk="true">
+            <Val><![CDATA[Resource Only DLL for Localization of microsoft.aad.brokerplugin]]></Val>
+          </Str>
+          <Disp Icon="Ver" />
+          <Modified By="pieterwi" DateTime="2015-05-04T22:25:28Z" />
+          <Cmts>
+            <Cmt Name="LcxAdmin"><![CDATA[{Locked}]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+            <Str Name="Custom3" Val="Win10_TH1" />
+            <Str Name="Custom5" Val="Must-Have" />
+          </Props>
+        </Item>
+        <Item ItemId=";InternalName" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version" UsrLk="true">
+            <Val><![CDATA[microsoft.aad.brokerplugin.dll]]></Val>
+          </Str>
+          <Disp Icon="Ver" />
+          <Modified By="pieterwi" DateTime="2015-05-04T22:25:28Z" />
+          <Cmts>
+            <Cmt Name="LcxAdmin"><![CDATA[{Locked}]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+            <Str Name="Custom3" Val="Win10_TH1" />
+            <Str Name="Custom5" Val="Must-Have" />
+          </Props>
+        </Item>
+        <Item ItemId=";LegalCopyright" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version" UsrLk="true">
+            <Val><![CDATA[© Microsoft Corporation. All rights reserved.]]></Val>
+          </Str>
+          <Disp Icon="Ver" />
+          <Modified By="pieterwi" DateTime="2015-05-04T22:25:28Z" />
+          <Cmts>
+            <Cmt Name="LcxAdmin"><![CDATA[{Locked}]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+            <Str Name="Custom3" Val="Win10_TH1" />
+            <Str Name="Custom5" Val="Must-Have" />
+          </Props>
+        </Item>
+        <Item ItemId=";OriginalFilename" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version" UsrLk="true">
+            <Val><![CDATA[microsoft.aad.brokerplugin.dll]]></Val>
+          </Str>
+          <Disp Icon="Ver" />
+          <Modified By="pieterwi" DateTime="2015-05-04T22:25:28Z" />
+          <Cmts>
+            <Cmt Name="LcxAdmin"><![CDATA[{Locked}]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+            <Str Name="Custom3" Val="Win10_TH1" />
+            <Str Name="Custom5" Val="Must-Have" />
+          </Props>
+        </Item>
+        <Item ItemId=";ProductName" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version" UsrLk="true">
+            <Val><![CDATA[Microsoft® Windows® Operating System]]></Val>
+          </Str>
+          <Disp Icon="Ver" />
+          <Modified By="pieterwi" DateTime="2015-05-04T22:25:28Z" />
+          <Cmts>
+            <Cmt Name="LcxAdmin"><![CDATA[{Locked}]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+            <Str Name="Custom3" Val="Win10_TH1" />
+            <Str Name="Custom5" Val="Must-Have" />
+          </Props>
+        </Item>
+      </Item>
+    </Item>
+  </Item>
+  <Item ItemId=";HTML" ItemType="0" PsrId="3" Leaf="false">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+    <Modified By="epriss" DateTime="2015-05-04T22:20:58Z" />
+    <Props>
+      <Str Name="Custom3" Val="10114.0.x86fre.winmain.150501-2156new" />
+    </Props>
+    <Item ItemId=";IDR_LOCSTRINGS_RESOURCES.HTML" ItemType="0" PsrId="3" Leaf="false">
+      <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+      <Modified By="epriss" DateTime="2015-05-04T22:20:58Z" />
+      <Props>
+        <Str Name="Custom3" Val="10114.0.x86fre.winmain.150501-2156new" />
+      </Props>
+      <Item ItemId=";HTML Content" ItemType="0" PsrId="3" Leaf="false">
+        <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+        <Modified By="epriss" DateTime="2015-05-04T22:20:58Z" />
+        <Props>
+          <Str Name="Custom3" Val="10114.0.x86fre.winmain.150501-2156new" />
+        </Props>
+        <Item ItemId=";Regular Content" ItemType="0" PsrId="3" Leaf="false">
+          <Disp Icon="Str" Disp="true" LocTbl="false" />
+          <Modified By="epriss" DateTime="2015-05-04T22:20:58Z" />
+          <Props>
+            <Str Name="Custom3" Val="10114.0.x86fre.winmain.150501-2156new" />
+          </Props>
+          <Item ItemId="0;ErrorPage_Title" ItemType="18;HTML" PsrId="3" Leaf="true">
+            <Str Cat="HTML Text">
+              <Val><![CDATA[Something went wrong]]></Val>
+              <Tgt Cat="HTML Text" Orig="New">
+                <Val><![CDATA[Something went wrong]]></Val>
+              </Tgt>
+            </Str>
+            <Disp Icon="Str" Order="1" />
+            <Cmts>
+              <Cmt Name="Dev"><![CDATA[Generic title for error page. Try to remain consistent with CloudExperienceHost.]]></Cmt>
+            </Cmts>
+            <Props>
+              <Str Name="Custom3" Val="14276.0.160225-1431new" />
+            </Props>
+          </Item>
+          <Item ItemId="0;Error_NoNetwork_Text" ItemType="18;HTML" PsrId="3" Leaf="true">
+            <Str Cat="HTML Text">
+              <Val><![CDATA[It doesn’t look like you’re connected to the internet. Please check your connection and try again.]]></Val>
+              <Tgt Cat="HTML Text" Orig="New">
+                <Val><![CDATA[It doesn’t look like you’re connected to the internet. Please check your connection and try again.]]></Val>
+              </Tgt>
+            </Str>
+            <Disp Icon="Str" Order="2" />
+            <Cmts>
+              <Cmt Name="Dev"><![CDATA[Description of network error. Directions to resolve.]]></Cmt>
+            </Cmts>
+            <Props>
+              <Str Name="Custom3" Val="14276.0.160225-1431new" />
+            </Props>
+          </Item>
+          <Item ItemId="0;Error_NoNetwork_Title" ItemType="18;HTML" PsrId="3" Leaf="true">
+            <Str Cat="HTML Text">
+              <Val><![CDATA[You’ll need the internet for this]]></Val>
+              <Tgt Cat="HTML Text" Orig="New">
+                <Val><![CDATA[You’ll need the internet for this]]></Val>
+              </Tgt>
+            </Str>
+            <Disp Icon="Str" Order="3" />
+            <Cmts>
+              <Cmt Name="Dev"><![CDATA[State there is a network error.]]></Cmt>
+            </Cmts>
+            <Props>
+              <Str Name="Custom3" Val="14276.0.160225-1431new" />
+            </Props>
+          </Item>
+          <Item ItemId="0;PackageDescription" ItemType="18;HTML" PsrId="3" Leaf="true">
+            <Str Cat="HTML Text">
+              <Val><![CDATA[Plugin for token broker, that allows to connect AAD]]></Val>
+              <Tgt Cat="HTML Text" Stat="Loc" Appr="PreApproved" Orig="New">
+                <Val><![CDATA[Inpropprogram vir kentekentussenganger, wat toelaat om AAD te koppel]]></Val>
+              </Tgt>
+            </Str>
+            <Disp Icon="Str" Order="4" />
+            <Modified By="pieterwi" DateTime="2015-05-04T22:28:24Z" />
+            <Cmts>
+              <Cmt Name="Dev"><![CDATA[AppxManifest.xml description displayed with package name in account picker UI.]]></Cmt>
+              <Cmt Name="Loc"><![CDATA[app description, AAD - Azure Active Directory, Brokered Authentication: Security Token Service]A;]]></Cmt>
+              <Cmt Name="UIType"><![CDATA[ModernVoice]]></Cmt>
+            </Cmts>
+            <Props>
+              <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+              <Str Name="Custom3" Val="Win10_TH1" />
+              <Str Name="Custom5" Val="Must-Have" />
+            </Props>
+          </Item>
+          <Item ItemId="0;PackageDisplayName" ItemType="18;HTML" PsrId="3" Leaf="true">
+            <Str Cat="HTML Text">
+              <Val><![CDATA[Work or school account]]></Val>
+              <Tgt Cat="HTML Text" Stat="Loc" Appr="PreApproved" Orig="New">
+                <Val><![CDATA[Werk- of skoolrekening]]></Val>
+              </Tgt>
+            </Str>
+            <Disp Icon="Str" Order="5" />
+            <Modified By="pieterwi" DateTime="2015-05-04T22:28:07Z" />
+            <Cmts>
+              <Cmt Name="Dev"><![CDATA[AppxManifest.xml package name displayed for account type in account picker UI.]]></Cmt>
+              <Cmt Name="Loc"><![CDATA[name of app taht is used to add machine to AAD]]></Cmt>
+              <Cmt Name="UIType"><![CDATA[ModernVoice]]></Cmt>
+            </Cmts>
+            <Props>
+              <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+              <Str Name="Custom3" Val="Win10_TH1" />
+              <Str Name="Custom5" Val="Must-Have" />
+            </Props>
+          </Item>
+          <Item ItemId="0;PublisherDisplayName" ItemType="18;HTML" PsrId="3" Leaf="true">
+            <Str Cat="HTML Text">
+              <Val><![CDATA[Assigned by your organization]]></Val>
+              <Tgt Cat="HTML Text" Stat="Loc" Appr="PreApproved" Orig="New">
+                <Val><![CDATA[Deur jou organisasie toegewys]]></Val>
+              </Tgt>
+            </Str>
+            <Disp Icon="Str" Order="6" />
+            <Modified By="pieterwi" DateTime="2015-05-04T22:28:07Z" />
+            <Cmts>
+              <Cmt Name="Dev"><![CDATA[AppxManifest.xml description displayed for account type.]]></Cmt>
+              <Cmt Name="Loc"><![CDATA[org - school or work]]></Cmt>
+              <Cmt Name="UIType"><![CDATA[ModernVoice]]></Cmt>
+            </Cmts>
+            <Props>
+              <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+              <Str Name="Custom3" Val="Win10_TH1" />
+              <Str Name="Custom5" Val="Must-Have" />
+            </Props>
+          </Item>
+        </Item>
+      </Item>
+    </Item>
+  </Item>
+</LCX>

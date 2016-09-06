@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LCX SchemaVersion="6.0" Name="microsoft.aad.brokerplugin.exe.mui" PsrId="3" FileType="4" SrcCul="en-US" TgtCul="af-ZA" xmlns="http://schemas.microsoft.com/locstudio/2006/6/lcx">
+  <Props>
+    <Str Name="hash" Val="Ez81G6IOANBiv3aXDL6SXDADzPAgYtEusLUa3apd87I=" />
+    <Str Name="LCGSettingsName" Val="@ParserSettingsPath@\NTDEV_LSSettings.lsconfig" />
+    <Str Name="LocStudio.HashIdSalt" Val="onecoreuap\aad\brokerplugin" />
+  </Props>
+  <OwnedComments>
+    <Cmt Name="DUIData" />
+    <Cmt Name="GoldMine" />
+    <Cmt Name="Goldmine8" />
+    <Cmt Name="LcxAdmin" />
+    <Cmt Name="Loc" />
+    <Cmt Name="ManifestData" />
+    <Cmt Name="Mnemonic" />
+    <Cmt Name="RCCX" />
+    <Cmt Name="ReachCustom3" />
+    <Cmt Name="UIType" />
+    <Cmt Name="UTSData" />
+    <Cmt Name="UTSUI" />
+    <Cmt Name="zLocLevel" />
+  </OwnedComments>
+  <Settings Name="@ParserSettingsPath@\NTDEV_LSSettings.lsconfig" Type="Config" />
+  <Item ItemId=";Version" ItemType=";Dummy" PsrId="3" Leaf="false">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+    <Props>
+      <Str Name="Custom3" Val="14334.0.160426-1535new" />
+    </Props>
+    <Item ItemId="1" ItemType="16" PsrId="3" Leaf="false">
+      <Disp Icon="Ver" Disp="true" LocTbl="false" />
+      <Props>
+        <Str Name="Custom3" Val="14334.0.160426-1535new" />
+      </Props>
+      <Item ItemId=";LT__LANG" ItemType=";VSTAMP" PsrId="3" Leaf="false">
+        <Bin BinId="5">
+          <Val><![CDATA[AAAAAA==]]></Val>
+        </Bin>
+        <Disp LocTbl="false" />
+        <Props>
+          <Str Name="Custom3" Val="14334.0.160426-1535new" />
+        </Props>
+        <Item ItemId=";CompanyName" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version" UsrLk="true">
+            <Val><![CDATA[Microsoft Corporation]]></Val>
+            <Tgt Cat="Version" Orig="New">
+              <Val><![CDATA[Microsoft Corporation]]></Val>
+            </Tgt>
+          </Str>
+          <Disp Icon="Ver" />
+          <Cmts>
+            <Cmt Name="ReachCustom3"><![CDATA[Win10_RS1]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="Custom3" Val="Win10_RS1" />
+          </Props>
+        </Item>
+        <Item ItemId=";FileDescription" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version">
+            <Val><![CDATA[AAD token broker plugin]]></Val>
+            <Tgt Cat="Version" Stat="Loc" Appr="Approved" Orig="New">
+              <Val><![CDATA[AAD-kentekentussenganger-inpropprogram]]></Val>
+            </Tgt>
+          </Str>
+          <Disp Icon="Ver" />
+          <Cmts>
+            <Cmt Name="ReachCustom3"><![CDATA[Win10_RS1]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="Custom3" Val="Win10_RS1" />
+          </Props>
+        </Item>
+        <Item ItemId=";InternalName" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version" UsrLk="true">
+            <Val><![CDATA[Microsoft.AAD.BrokerPlugin.exe]]></Val>
+            <Tgt Cat="Version" Orig="New">
+              <Val><![CDATA[Microsoft.AAD.BrokerPlugin.exe]]></Val>
+            </Tgt>
+          </Str>
+          <Disp Icon="Ver" />
+          <Cmts>
+            <Cmt Name="ReachCustom3"><![CDATA[Win10_RS1]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="Custom3" Val="Win10_RS1" />
+          </Props>
+        </Item>
+        <Item ItemId=";LegalCopyright" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version">
+            <Val><![CDATA[© Microsoft Corporation. All rights reserved.]]></Val>
+            <Tgt Cat="Version" Stat="Loc" Appr="Approved" Orig="New">
+              <Val><![CDATA[© Microsoft Corporation. Alle regte voorbehou.]]></Val>
+            </Tgt>
+          </Str>
+          <Disp Icon="Ver" />
+          <Cmts>
+            <Cmt Name="ReachCustom3"><![CDATA[Win10_RS1]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="Custom3" Val="Win10_RS1" />
+          </Props>
+        </Item>
+        <Item ItemId=";OriginalFilename" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version" UsrLk="true">
+            <Val><![CDATA[Microsoft.AAD.BrokerPlugin.exe]]></Val>
+            <Tgt Cat="Version" Orig="New">
+              <Val><![CDATA[Microsoft.AAD.BrokerPlugin.exe]]></Val>
+            </Tgt>
+          </Str>
+          <Disp Icon="Ver" />
+          <Cmts>
+            <Cmt Name="ReachCustom3"><![CDATA[Win10_RS1]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="Custom3" Val="Win10_RS1" />
+          </Props>
+        </Item>
+        <Item ItemId=";ProductName" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version" UsrLk="true">
+            <Val><![CDATA[Microsoft® Windows® Operating System]]></Val>
+            <Tgt Cat="Version" Orig="New">
+              <Val><![CDATA[Microsoft® Windows® Operating System]]></Val>
+            </Tgt>
+          </Str>
+          <Disp Icon="Ver" />
+          <Cmts>
+            <Cmt Name="ReachCustom3"><![CDATA[Win10_RS1]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="Custom3" Val="Win10_RS1" />
+          </Props>
+        </Item>
+      </Item>
+    </Item>
+  </Item>
+</LCX>

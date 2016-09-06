@@ -1,0 +1,911 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LCX SchemaVersion="6.0" Name="aerolite.mst.mui" PsrId="3" FileType="4" SrcCul="en-US" TgtCul="af-ZA" Desc="Commenting file created by LCXAdmin. For more information, please visit http://localizability/longhorn/LcxAdmin.asp" xmlns="http://schemas.microsoft.com/locstudio/2006/6/lcx">
+  <Props>
+    <Str Name="CustomName1" Val="Custom 1" />
+    <Str Name="CustomName2" Val="Custom 2" />
+    <Str Name="CustomName3" Val="Custom 3" />
+    <Str Name="CustomName4" Val="Custom 4" />
+    <Str Name="CustomName5" Val="Custom 5" />
+    <Str Name="CustomName6" Val="IQA" />
+    <Str Name="hash" Val="gm7oOFONnmskVDjeInSfLADgHMPyRcClqe5tjqybLFA=" />
+    <Str Name="LCGSettingsName" Val="@ParserSettingsPath@\NTDEV_LSSettings.lsconfig" />
+    <Str Name="LocStudio.HashIdSalt" Val="shell" />
+  </Props>
+  <OwnedComments>
+    <Cmt Name="DUIData" />
+    <Cmt Name="GoldMine" />
+    <Cmt Name="Goldmine8" />
+    <Cmt Name="LcxAdmin" />
+    <Cmt Name="Loc" />
+    <Cmt Name="ManifestData" />
+    <Cmt Name="Mnemonic" />
+    <Cmt Name="RCCX" />
+    <Cmt Name="ReachCustom3" />
+    <Cmt Name="UIType" />
+    <Cmt Name="UTSData" />
+    <Cmt Name="UTSUI" />
+    <Cmt Name="zLocLevel" />
+  </OwnedComments>
+  <Settings Name="@ParserSettingsPath@\NTDEV_LSSettings.lsconfig" Type="Config" />
+  <Item ItemId=";String Table" ItemType=";Dummy" PsrId="3" Leaf="false">
+    <Disp Icon="Str" Disp="true" LocTbl="false" />
+    <Modified By="keikac" DateTime="2001-01-18T19:05:49Z" />
+    <Item ItemId="101" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Text" UsrLk="true">
+        <Val><![CDATA[Aero style]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[Aero style]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2008-07-18T23:07:14Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[101]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="102" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Text" UsrLk="true">
+        <Val><![CDATA[Microsoft Windows Visual Style]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[Microsoft Windows Visual Style]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="hsiench" DateTime="2011-10-04T22:21:30Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[102]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="103" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Text" UsrLk="true">
+        <Val><![CDATA[Aero Visual Style]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[Aero Visual Style]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2008-07-18T23:07:14Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[103]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="104" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Text" UsrLk="true">
+        <Val><![CDATA[MSX]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[MSX]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="miwett" DateTime="2008-04-11T00:28:13Z" />
+      <Cmts>
+        <Cmt Name="LcxAdmin"><![CDATA[{Locked}]]></Cmt>
+        <Cmt Name="Loc"><![CDATA[{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[104]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="105" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Text" UsrLk="true">
+        <Val><![CDATA[Microsoft Corporation]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[Microsoft Corporation]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="miwett" DateTime="2008-04-11T00:28:13Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[{Locked}{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[105]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="106" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Text" UsrLk="true">
+        <Val><![CDATA[Copyright Microsoft Corporation, 2003.  All rights reserved.]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[Copyright Microsoft Corporation, 2003.  All rights reserved.]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2008-07-18T23:07:14Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[106]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="107" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Address" UsrLk="true">
+        <Val><![CDATA[http://www.microsoft.com]]></Val>
+        <Tgt Cat="Address" Orig="New">
+          <Val><![CDATA[http://www.microsoft.com]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2008-07-18T23:07:14Z" />
+      <Cmts>
+        <Cmt Name="LcxAdmin"><![CDATA[{StringCategory="Address"}]]></Cmt>
+        <Cmt Name="Loc"><![CDATA[{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[107]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="108" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Number" UsrLk="true">
+        <Val><![CDATA[1.0]]></Val>
+        <Tgt Cat="Number" Orig="New">
+          <Val><![CDATA[1.0]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2009-02-19T17:42:19Z" />
+      <Cmts>
+        <Cmt Name="LcxAdmin"><![CDATA[{Locked}]]></Cmt>
+        <Cmt Name="Loc"><![CDATA[{NoAutoRules}{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[108]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="109" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Text" UsrLk="true">
+        <Val><![CDATA[Normal]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[Normal]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2008-07-18T23:07:14Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[Display name{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[109]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="110" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Text" UsrLk="true">
+        <Val><![CDATA[Normal size]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[Normal size]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2008-07-18T23:07:14Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[Tooltip{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[110]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="111" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Text" UsrLk="true">
+        <Val><![CDATA[Default]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[Default]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2008-07-18T23:07:14Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[111]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="112" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Text" UsrLk="true">
+        <Val><![CDATA[Aero Color Scheme]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[Aero Color Scheme]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2008-07-18T23:07:14Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[Tooltip{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[112]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="113" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Number" UsrLk="true">
+        <Val><![CDATA[0, 0, 406, 440]]></Val>
+        <Tgt Cat="Number" Orig="New">
+          <Val><![CDATA[0, 0, 406, 440]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2015-12-10T00:26:12Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[IMP_FROM_LANGS{Locked=ro-RO}IMP_FROM_LANGS{Locked=hr-HR}IMP_FROM_LANGS{Locked=de-DE}IMP_FROM_LANGS{Locked=bg-BG}StartPanel size {ValidChars="0-9 ,"}{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[113]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{StringCategory="Number"}This is a RECT]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="114" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Number" UsrLk="true">
+        <Val><![CDATA[0, 0, 145, 75]]></Val>
+        <Tgt Cat="Number" Orig="New">
+          <Val><![CDATA[0, 0, 145, 75]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2015-12-10T00:26:14Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[IMP_FROM_LANGS{Locked=sk-SK}IMP_FROM_LANGS{Locked=ro-RO}IMP_FROM_LANGS{Locked=hr-HR}IMP_FROM_LANGS{Locked=de-DE}IMP_FROM_LANGS{Locked=bg-BG}UserPane size{ValidChars="0-9 ,"}{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[114]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{StringCategory="Number"}This is a RECT]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="115" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Number" UsrLk="true">
+        <Val><![CDATA[0, 0, 64, 64]]></Val>
+        <Tgt Cat="Number" Orig="New">
+          <Val><![CDATA[0, 0, 64, 64]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2015-12-10T00:26:17Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[IMP_FROM_LANGS{Locked=sk-SK}IMP_FROM_LANGS{Locked=ro-RO}IMP_FROM_LANGS{Locked=hr-HR}IMP_FROM_LANGS{Locked=de-DE}IMP_FROM_LANGS{Locked=bg-BG}UserPicture size{ValidChars="0-9 ,"}{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[115]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{StringCategory="Number"}This is a RECT]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="117" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Number" UsrLk="true">
+        <Val><![CDATA[0, 0, 262, 41]]></Val>
+        <Tgt Cat="Number" Orig="New">
+          <Val><![CDATA[0, 0, 262, 41]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2015-12-10T00:26:19Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[IMP_FROM_LANGS{Locked=ro-RO}IMP_FROM_LANGS{Locked=hr-HR}IMP_FROM_LANGS{Locked=de-DE}IMP_FROM_LANGS{Locked=bg-BG}MorePrograms size{ValidChars="0-9 ,"} {Locked}{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[117]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{StringCategory="Number"}This is a RECT]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win10_TH1]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win10_TH1" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="118" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Number" UsrLk="true">
+        <Val><![CDATA[0, 0, 145, 332]]></Val>
+        <Tgt Cat="Number" Orig="New">
+          <Val><![CDATA[0, 0, 145, 332]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2015-12-10T00:26:22Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[IMP_FROM_LANGS{Locked=sk-SK}IMP_FROM_LANGS{Locked=ro-RO}IMP_FROM_LANGS{Locked=hr-HR}IMP_FROM_LANGS{Locked=de-DE}IMP_FROM_LANGS{Locked=bg-BG}PlacesList size{ValidChars="0-9 ,"}{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[118]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{StringCategory="Number"}This is a RECT]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="119" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Number" UsrLk="true">
+        <Val><![CDATA[0, 0, 262, 383]]></Val>
+        <Tgt Cat="Number" Orig="New">
+          <Val><![CDATA[0, 0, 262, 383]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2015-12-10T00:26:24Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[IMP_FROM_LANGS{Locked=ro-RO}IMP_FROM_LANGS{Locked=hr-HR}IMP_FROM_LANGS{Locked=de-DE}IMP_FROM_LANGS{Locked=bg-BG}NSCHost size{ValidChars="0-9 ,"} {Locked}{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[119]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{StringCategory="Number"}This is a RECT]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win10_TH1]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win10_TH1" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="120" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Number" UsrLk="true">
+        <Val><![CDATA[0, 0, 261, 37]]></Val>
+        <Tgt Cat="Number" Orig="New">
+          <Val><![CDATA[0, 0, 261, 37]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2015-12-10T00:26:26Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[IMP_FROM_LANGS{Locked=ro-RO}IMP_FROM_LANGS{Locked=hr-HR}IMP_FROM_LANGS{Locked=de-DE}IMP_FROM_LANGS{Locked=bg-BG}OpenBox size{ValidChars="0-9 ,"}{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[120]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{StringCategory="Number"}This is a RECT]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="123" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Number" UsrLk="true">
+        <Val><![CDATA[0, 0, 145, 33]]></Val>
+        <Tgt Cat="Number" Orig="New">
+          <Val><![CDATA[0, 0, 145, 33]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2009-03-04T21:50:12Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[IMP_FROM_LANGS{Locked=sr-Latn-RS}IMP_FROM_LANGS{Locked=sk-SK}IMP_FROM_LANGS{Locked=ro-RO}IMP_FROM_LANGS{Locked=hr-HR}IMP_FROM_LANGS{Locked=de-DE}IMP_FROM_LANGS{Locked=bg-BG}Logoff size {ValidChars="0-9 ,"}{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[123]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{StringCategory="Number"}This is a RECT]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="124" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Number" UsrLk="true">
+        <Val><![CDATA[1]]></Val>
+        <Tgt Cat="Number" Orig="New">
+          <Val><![CDATA[1]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="hsiench" DateTime="2010-12-15T00:18:04Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[IMP_FROM_LANGS{Locked=hr-HR}This is a BOOL value{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[124]]></Cmt>
+        <Cmt Name="RCCX" Enabled="false"><![CDATA[{ValidStrings='0','1','true','false'}This is a BOOL]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="pre-W7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="125" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Number" UsrLk="true">
+        <Val><![CDATA[0, 0, 400, 383]]></Val>
+        <Tgt Cat="Number" Orig="New">
+          <Val><![CDATA[0, 0, 400, 383]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2009-03-04T21:45:07Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[SearchView size{Locked=@LipLangs@}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[125]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{StringCategory="Number"}This is a RECT]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win7]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win7" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="494" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Segoe UI, 9, Quality:Cleartype]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="Auto">
+          <Val><![CDATA[Segoe UI, 9, Quality:Cleartype]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="hyunsong" DateTime="2014-07-21T22:14:16Z" />
+      <Cmts>
+        <Cmt Name="Mnemonic"><![CDATA[494]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{Locked=s'x'}]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win10_TH1]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win10_TH1" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="495" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Segoe UI, 9, Quality:Cleartype]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="Auto">
+          <Val><![CDATA[Segoe UI, 9, Quality:Cleartype]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="joonj" DateTime="2015-08-21T20:55:02Z" />
+      <Cmts>
+        <Cmt Name="Mnemonic"><![CDATA[495]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{Locked=s'x'}]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win10_TH2]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win10_TH2" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="496" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Segoe UI, 9, Quality:Cleartype]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="Auto">
+          <Val><![CDATA[Segoe UI, 9, Quality:Cleartype]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="joonj" DateTime="2015-08-21T20:54:31Z" />
+      <Cmts>
+        <Cmt Name="Mnemonic"><![CDATA[496]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{Locked=s'x'}]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win10_TH2]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win10_TH2" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="501" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Style">
+        <Val><![CDATA[Segoe UI, 9, Quality:ClearType]]></Val>
+        <Tgt Cat="Style" Stat="Loc" Appr="PreApproved" Orig="Auto">
+          <Val><![CDATA[Segoe UI, 9, Quality:ClearType]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="pieterwi" DateTime="2014-12-15T18:16:25Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[IMP_FROM_LANGS{Locked=bg-BG}{StringCategory="Style"}]A;]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[501]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{Locked=s'x'}]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win10_TH1]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win10_TH1" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="502" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Style">
+        <Val><![CDATA[Segoe UI, 12, Quality:ClearType]]></Val>
+        <Tgt Cat="Style" Stat="Loc" Appr="PreApproved" Orig="Auto">
+          <Val><![CDATA[Segoe UI, 12, Quality:ClearType]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="pieterwi" DateTime="2014-12-15T18:16:25Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[IMP_FROM_LANGS{Locked=bg-BG}{StringCategory="Style"}]A;]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[502]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{Locked=s'x'}]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win10_TH1]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win10_TH1" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="503" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Style">
+        <Val><![CDATA[Segoe UI, 9, Bold, Quality:ClearType]]></Val>
+        <Tgt Cat="Style" Stat="Loc" Appr="PreApproved" Orig="Auto">
+          <Val><![CDATA[Segoe UI, 9, Bold, Quality:ClearType]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2015-12-10T00:26:32Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[IMP_FROM_LANGS{Locked=sk-SK}IMP_FROM_LANGS{Locked=ro-RO}{StringCategory="Style"}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[503]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{ValidStrings=s'2',i'Bold','bold',''}{Locked=s'x'}]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win10_TH1]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win10_TH1" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="504" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Style">
+        <Val><![CDATA[Segoe UI, 9, Underline, Quality:ClearType]]></Val>
+        <Tgt Cat="Style" Stat="Loc" Appr="PreApproved" Orig="Auto">
+          <Val><![CDATA[Segoe UI, 9, Underline, Quality:ClearType]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="pieterwi" DateTime="2014-12-15T18:16:25Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[{StringCategory="Style"}]A;]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[504]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{ValidStrings=s'2',i'Underline','underline',''}{Locked=s'x'}]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win10_TH1]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win10_TH1" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="505" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Style">
+        <Val><![CDATA[Segoe UI, 12, Underline, Quality:ClearType]]></Val>
+        <Tgt Cat="Style" Stat="Loc" Appr="PreApproved" Orig="Auto">
+          <Val><![CDATA[Segoe UI, 12, Underline, Quality:ClearType]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="epriss" DateTime="2015-12-10T00:26:34Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[IMP_FROM_LANGS{Locked=sk-SK}IMP_FROM_LANGS{Locked=ro-RO}IMP_FROM_LANGS{Locked=bg-BG}{StringCategory="Style"}]A;]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[505]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{ValidStrings=s'2',i'Underline','underline',''}{Locked=s'x'}]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win10_TH1]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win10_TH1" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="506" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Style">
+        <Val><![CDATA[Segoe UI, 10, Quality:ClearType]]></Val>
+        <Tgt Cat="Style" Stat="Loc" Appr="PreApproved" Orig="Auto">
+          <Val><![CDATA[Segoe UI, 10, Quality:ClearType]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="pieterwi" DateTime="2014-12-15T18:16:25Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[{StringCategory="Style"}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[506]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{Locked=s'x'}]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win10_TH1]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win10_TH1" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="507" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Style">
+        <Val><![CDATA[Segoe UI, 9, Italic, Quality:ClearType]]></Val>
+        <Tgt Cat="Style" Stat="Loc" Appr="PreApproved" Orig="Auto">
+          <Val><![CDATA[Segoe UI, 9, Italic, Quality:ClearType]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="pieterwi" DateTime="2014-12-15T21:17:36Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{ValidStrings=s'2',i'Italic','bold',''}{Locked=s'x'}{StringCategory="Style"}]A;]A;]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[507]]></Cmt>
+        <Cmt Name="RCCX" Enabled="false"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{ValidStrings=s'2',i'Italic','italic',''}{Locked=s'x'}]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win10_TH1]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win10_TH1" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="1164" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Style">
+        <Val><![CDATA[Segoe UI, 7, Quality:ClearType]]></Val>
+        <Tgt Cat="Style" Stat="Loc" Appr="PreApproved" Orig="New">
+          <Val><![CDATA[Segoe UI, 7, Quality:ClearType]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="pieterwi" DateTime="2014-12-15T18:23:40Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[{StringCategory="Style"}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[1164]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{Locked=s'x'}]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win8]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win8" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="1165" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Style">
+        <Val><![CDATA[Segoe UI, 8, Quality:ClearType]]></Val>
+        <Tgt Cat="Style" Stat="Loc" Appr="PreApproved" Orig="New">
+          <Val><![CDATA[Segoe UI, 8, Quality:ClearType]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="pieterwi" DateTime="2014-12-15T18:23:40Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[{StringCategory="Style"}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[1165]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{Locked=s'x'}]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win8]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win8" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="1166" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Style">
+        <Val><![CDATA[Segoe UI, 22, Quality:ClearType]]></Val>
+        <Tgt Cat="Style" Stat="Loc" Appr="PreApproved" Orig="New">
+          <Val><![CDATA[Segoe UI, 22, Quality:ClearType]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="pieterwi" DateTime="2014-12-15T18:23:40Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[{StringCategory="Style"}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[1166]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{Locked=s'x'}]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win8]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win8" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+    <Item ItemId="1167" ItemType=";STR" PsrId="3" Leaf="true">
+      <Str Cat="Style">
+        <Val><![CDATA[Segoe UI, 16, Quality:ClearType]]></Val>
+        <Tgt Cat="Style" Stat="Loc" Appr="PreApproved" Orig="New">
+          <Val><![CDATA[Segoe UI, 16, Quality:ClearType]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="pieterwi" DateTime="2014-12-15T18:23:40Z" />
+      <Cmts>
+        <Cmt Name="Loc"><![CDATA[{StringCategory="Style"}]]></Cmt>
+        <Cmt Name="Mnemonic"><![CDATA[1167]]></Cmt>
+        <Cmt Name="RCCX"><![CDATA[{Split=', '}{@FontFace@=s'0'}{@fontsize_float@=s'1','FontSize'}{Locked=s'x'}]]></Cmt>
+        <Cmt Name="ReachCustom3"><![CDATA[Win8]]></Cmt>
+      </Cmts>
+      <Props>
+        <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+        <Str Name="Custom3" Val="Win8" />
+        <Str Name="Custom5" Val="Must-Have" />
+      </Props>
+    </Item>
+  </Item>
+  <Item ItemId=";Version" ItemType=";Dummy" PsrId="3" Leaf="false">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+    <Modified By="keikac" DateTime="2001-01-18T19:05:49Z" />
+    <Item ItemId="1" ItemType="16" PsrId="3" Leaf="false">
+      <Disp Icon="Ver" Disp="true" LocTbl="false" />
+      <Modified By="keikac" DateTime="2001-01-18T19:05:49Z" />
+      <Cmts>
+        <Cmt Name="Mnemonic"><![CDATA[VS_VERSION_INFO]]></Cmt>
+      </Cmts>
+      <Item ItemId=";LT__LANG" ItemType=";VSTAMP" PsrId="3" Leaf="false">
+        <Bin BinId="5">
+          <Val><![CDATA[AAAAAA==]]></Val>
+        </Bin>
+        <Disp LocTbl="false" />
+        <Modified By="keikac" DateTime="2001-01-18T19:05:49Z" />
+        <Props>
+          <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+          <Str Name="Custom5" Val="Must-Have" />
+        </Props>
+        <Item ItemId=";CompanyName" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version" UsrLk="true">
+            <Val><![CDATA[Microsoft Corporation]]></Val>
+            <Tgt Cat="Version" Orig="New">
+              <Val><![CDATA[Microsoft Corporation]]></Val>
+            </Tgt>
+          </Str>
+          <Disp Icon="Ver" />
+          <Modified By="miwett" DateTime="2008-04-11T00:28:13Z" />
+          <Cmts>
+            <Cmt Name="Loc"><![CDATA[{@Version_CompanyName@}]]></Cmt>
+            <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+            <Str Name="Custom3" Val="pre-W7" />
+            <Str Name="Custom5" Val="Must-Have" />
+          </Props>
+        </Item>
+        <Item ItemId=";FileDescription" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version">
+            <Val><![CDATA[Windows Aero Visual Style Resource Dll]]></Val>
+            <Tgt Cat="Version" Stat="Loc" Appr="PreApproved" Orig="New">
+              <Val><![CDATA[Bron-DDL (dinamiese skakelbiblioteek) vir Windows se Aero- visuele styl]]></Val>
+            </Tgt>
+          </Str>
+          <Disp Icon="Ver" />
+          <Modified By="epriss" DateTime="2008-07-18T23:07:14Z" />
+          <Cmts>
+            <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+            <Str Name="Custom3" Val="pre-W7" />
+            <Str Name="Custom5" Val="Must-Have" />
+          </Props>
+        </Item>
+        <Item ItemId=";InternalName" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version" UsrLk="true">
+            <Val><![CDATA[aero.msstyles]]></Val>
+            <Tgt Cat="Version" Orig="New">
+              <Val><![CDATA[aero.msstyles]]></Val>
+            </Tgt>
+          </Str>
+          <Disp Icon="Ver" />
+          <Modified By="epriss" DateTime="2008-05-22T18:25:38Z" />
+          <Cmts>
+            <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+            <Str Name="Custom3" Val="pre-W7" />
+            <Str Name="Custom5" Val="Must-Have" />
+          </Props>
+        </Item>
+        <Item ItemId=";LegalCopyright" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version">
+            <Val><![CDATA[© Microsoft Corporation. All rights reserved.]]></Val>
+            <Tgt Cat="Version" Stat="Loc" Appr="PreApproved" Orig="New">
+              <Val><![CDATA[© Microsoft Corporation. Alle regte voorbehou.]]></Val>
+            </Tgt>
+          </Str>
+          <Disp Icon="Ver" />
+          <Modified By="epriss" DateTime="2008-07-18T23:07:14Z" />
+          <Cmts>
+            <Cmt Name="Loc"><![CDATA[{@Version_Copyright@}]]></Cmt>
+            <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+            <Str Name="Custom3" Val="pre-W7" />
+            <Str Name="Custom5" Val="Must-Have" />
+          </Props>
+        </Item>
+        <Item ItemId=";OriginalFilename" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version" UsrLk="true">
+            <Val><![CDATA[aero.msstyles.mui]]></Val>
+            <Tgt Cat="Version" Orig="New">
+              <Val><![CDATA[aero.msstyles.mui]]></Val>
+            </Tgt>
+          </Str>
+          <Disp Icon="Ver" />
+          <Modified By="epriss" DateTime="2008-05-22T18:25:38Z" />
+          <Cmts>
+            <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+            <Str Name="Custom3" Val="pre-W7" />
+            <Str Name="Custom5" Val="Must-Have" />
+          </Props>
+        </Item>
+        <Item ItemId=";ProductName" ItemType=";VSTAMP" PsrId="3" Leaf="true">
+          <Str Cat="Version" UsrLk="true">
+            <Val><![CDATA[Microsoft® Windows® Operating System]]></Val>
+            <Tgt Cat="Version" Orig="New">
+              <Val><![CDATA[Microsoft® Windows® Operating System]]></Val>
+            </Tgt>
+          </Str>
+          <Disp Icon="Ver" />
+          <Modified By="epriss" DateTime="2008-07-18T23:07:14Z" />
+          <Cmts>
+            <Cmt Name="Loc"><![CDATA[{@Version_ProductName@}]]></Cmt>
+            <Cmt Name="ReachCustom3"><![CDATA[pre-W7]]></Cmt>
+          </Cmts>
+          <Props>
+            <Str Name="CF5_PriorityDetail" Val="Lip_NotChurning" />
+            <Str Name="Custom3" Val="pre-W7" />
+            <Str Name="Custom5" Val="Must-Have" />
+          </Props>
+        </Item>
+      </Item>
+    </Item>
+  </Item>
+</LCX>
